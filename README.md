@@ -1,5 +1,5 @@
 # Docker Kafka
-A basic docker-compose file to run a single kafka broker and zookeeper in the same docker container.
+A basic docker-compose file to run a single kafka broker and zookeeper in docker.
 
 ## Running
 ```bash
